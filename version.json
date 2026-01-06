@@ -1,7 +1,12 @@
 {
-  "LatestVersion": "1.0.0",
-  "LatestVersionTag": "v1.0.0",
-  "UpdateLog": "初始版本，支持文件管理核心功能",
-  "DownloadUrl": "https://github.com/abc8801353/FileSpherePro/releases/download/v1.0.0/FileSpherePro_v1.0.0.zip",
-  "JsDelivrDownloadUrl": "https://gh.api.99988866.xyz/https://github.com/abc8801353/FileSpherePro/releases/download/v1.0.0/FileSpherePro_v1.0.0.zip"
+  "version": "1.0.0",
+  "versionName": "FileSphere Pro v1.0.0 正式版",
+  "releaseDate": "2025-01-06",
+  "downloadUrl": "https://github.com/abc8801353/FileSpherePro/releases/download/v1.0.0/FileSpherePro_v1.0.0.exe",
+  "fileSize": 116108123,
+  "fileSizeMB": "111 MB",
+  "md5": "",
+  "updateNotes": "🎉 首个正式版本发布！\n\n✨ 核心功能：\n• 批量重命名 - 支持前缀、编号、替换\n• 文件分类整理 - 按类型或关键词自动分类\n• 智能去重 - 精确识别重复文件\n• 内容提取 - 批量提取文档内容\n• Excel 合并 - 一键合并多个表格\n• 文件统计分析 - 可视化数据展示\n\n🌐 多语言支持：\n• 简体中文\n• 繁體中文\n• English\n\n🎨 界面特性：\n• 现代化 Fluent 设计\n• 支持浅色/深色主题\n• 单实例运行保护",
+  "isForceUpdate": false,
+  "minVersion": "1.0.0"
 }
