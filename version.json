@@ -1,0 +1,7 @@
+{
+  "LatestVersion": "1.0.0",
+  "LatestVersionTag": "v1.0.0",
+  "UpdateLog": "初始版本，支持文件管理核心功能",
+  "DownloadUrl": "https://github.com/abc8801353/FileSpherePro/releases/download/v1.0.0/FileSpherePro-Setup-v1.0.0.exe",
+  "JsDelivrDownloadUrl": "https://cdn.jsdelivr.net/gh/abc8801353/FileSpherePro@v1.0.0/FileSpherePro-Setup-v1.0.0.exe"
+}
